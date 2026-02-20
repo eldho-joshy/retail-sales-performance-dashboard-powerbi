@@ -1,8 +1,8 @@
 # Retail Sales Performance Dashboard | Power BI
 
-("C:\Users\eldho\OneDrive\Pictures\Screenshots 1\dashboard-preview.png")
-
 ---
+<img width="1397" height="796" alt="dashboard-preview" src="https://github.com/user-attachments/assets/8290e808-9c5b-4bff-ab28-2583124b0270" />
+
 
 ## 📌 Project Overview
 
